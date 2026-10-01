@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/vpn.png",¡¡AVISO!!
 https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/vpn.m3u
+
 #EXTINF:-1 tvg-logo="",INSTALAR VPN
 https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/warptv.mp4
+
 #EXTINF:-1 tvg-logo="",ACTUALIZAR VPN
 https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/actualizar.mp4
