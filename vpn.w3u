@@ -1,110 +1,21 @@
-{
-"name": "🅲🅰🅝🅐🅻🅔🆂",
-"author": "ACESTREAM",
-"image": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
-"url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/canal.w3u",
-"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-"groups":
-[
-
-#{"name": "VPN GRATIS v3",
-#"image": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/pasosvpn.png", 
-#"url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/canal.w3u"
-#  "stations": [
-#   {"name": "¡¡AVISO!!",
-#    "image": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/vpn.png" 
-#   #"url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/canal.w3u"
-#   },
-#   {
-#      "name": "INSTALAR VPN",
-#      "info": "v.3 26.09.27",
-#      "image": "",
-#      "url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/warptv.mp4"
-#   },
-#   {
-#      "name": "ACTUALIZAR VPN",
-#      "info": "A última versión",
-#      "image": "",
-#      "url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/actualizar.mp4"
-#    }
-# ]
-#},
-
-{
-"name": "DEPORTES",
-"author": "ACESTREAM",
-"image": "https://cdn.pixabay.com/animation/2023/11/14/18/29/18-29-42-564_512.gif",
-"url": "https://rentry.org/gd3kg/raw",
-"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-"import": false
-},
-
-#{
-#"name": "SIN ACESTREAM",
-#"image": "https://cdn.pixabay.com/animation/2023/11/14/18/29/18-29-42-564_512.gif",
-#"url": "https://wiseplay.me/eventosiptv",
-#"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-#"import": false
-#},
-
-#{
-#"name": "PELIS ACESTREAM",
-#"author": "ACESTREAM",
-#"image": "https://media.tenor.com/79MQ41o5dSUAAAAC/cine.gif",
-#"url": "https://www.dl.dropboxusercontent.com/scl/fi/xvjdm3uhsznnecpst5fsx/bibliotecapelis.m3u?rlkey=xm15l974lhfrf4qwj6mv1zbk5&st=5hpmq0ei",
-#"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-#"import": false
-#},
-
-      {
-        "name": "OTRAS LISTAS",
-        "image": "https://cdn.dribbble.com/userupload/42010431/file/original-5bc1f40d56b994c7eed03f513e795481.gif",
-        "imageScale": "",
-        "info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-        "groups": [
-{
-"name": "AF1CIONADOS",
-"image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
-"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
-"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-"import": false
-},
-
-{
-"name": "JOSE PIMBA",
-"url": "https://wiseplay.me/josepimbatv",
-"image": "https://i.ibb.co/XJXyc8B/LISTA-WISEPLAY-LOGO.png",
-"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-"import": false
-},
-
-{
-"name": "CHUKY CINE",
-"image": "https://github.com/tiriti1/tiri/blob/main/ck%20cine.jpg?raw=true",
-"url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
-"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-"import": false
-}, 
-
-{
-"name": "CHUKY DEPORTE",
-"image": "https://github.com/tiriti1/tiri/blob/main/chukyhood.jpg?raw=true",
-"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
-"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-"import": false
-},
-
-{
-"name": "᙭ᑌᑭᗴᖇᒪIՏT 2.0",
-"author": "ᗷʏ ᘜᖇOᑌᑭ ᙭ᑌᑭᗴᖇᒪIՏT ©",
-"image": "https://i.postimg.cc/3Rd3SF64/logo2-21-13331.png",
-"url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
-"info": "lista libre y gratis recopilada con enlaces publicados por otras personas en Internet",
-"import": false
-}
-
-
-  ]
-  }
-]
+{"name": "VPN GRATIS v3",
+"image": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/pasosvpn.png", 
+"url": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/vpn.w3u"
+  "stations": [
+   {"name": "¡¡AVISO!!",
+    "image": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/vpn.png" 
+   },
+   {
+      "name": "INSTALAR VPN",
+      "info": "v.3 26.09.27",
+      "image": "",
+      "url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/warptv.mp4"
+   },
+   {
+      "name": "ACTUALIZAR VPN",
+      "info": "A última versión",
+      "image": "",
+      "url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/actualizar.mp4"
+    }
+ ]
 }
