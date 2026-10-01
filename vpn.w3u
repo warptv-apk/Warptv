@@ -1,17 +1,24 @@
 {
-  "name": "VPN GRATIS v3",
+  "name": "VPN WARP GRATIS v3",
   "image": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/pasosvpn.png",
   "url": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/vpn.w3u",
-  "stations": [
+  "groups": [
     {
-      "name": "¡¡AVISO!!",
-      "image": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/vpn.png"
+      "name": "¡¡¡AVISO!!!",
+      "image": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/acestream.gif",
+      "url": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/vpn.w3u"
     },
+    {
+      "name": "24.09.2027",
+      "image": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/version.png",
+      "url": "https://raw.githubusercontent.com/warptv-apk/Warptv/refs/heads/main/vpn.w3u"
+    },
+
     {
       "name": "INSTALAR VPN",
       "info": "v.3 26.09.27",
       "image": "",
-      "url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/warptv.mp4"
+      "url": "https://raw.githubusercontent.com/canalaces/canales/gh-pages/instalar.mp4"
     },
     {
       "name": "ACTUALIZAR VPN",
