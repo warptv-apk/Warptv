@@ -39,16 +39,6 @@ Aplicación Android para Android TV, móviles y tablets que integra WireGuard y 
 
 El repositorio incluye el workflow `.github/workflows/build-apk.yml`.
 
-Para generar el APK:
-
-1. Sube el contenido del proyecto al repositorio de GitHub.
-2. Abre la pestaña **Actions**.
-3. Selecciona **Build WARP TV universal APK**.
-4. Pulsa **Run workflow** o espera a que se ejecute tras subir cambios a `main`.
-5. Descarga el artefacto `warp-tv-universal-debug-apk`.
-
-El APK generado se encuentra en `app/build/outputs/apk/debug/app-debug.apk`.
-
 El workflow utiliza JDK 17, Gradle 8.13 y Android SDK 36.
 
 ## Seguridad y almacenamiento
